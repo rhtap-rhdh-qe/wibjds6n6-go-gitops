@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wibjds6n6-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/wibjds6n6-go
